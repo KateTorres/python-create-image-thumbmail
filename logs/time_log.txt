@@ -1,0 +1,4 @@
+C:\projects\templates\images\05-31лежебока.jpg: Processing time for 05-31лежебока.jpg: 1.0404858589172363 seconds.
+**image_upload_thumbnail.py:** C:\projects\templates\images\05-31дом.jpg: Processing time : 1.0571560859680176 seconds.
+image_upload_thumbnail.py:C:\projects\templates\images\IMG_2286.jpg:File size is 2362043 bytes, Processing time : 1.087620496749878 seconds.
+image_upload_thumbnail.py:C:\projects\templates\images\IMG_2283.jpg, File size is 2874481 bytes, Processing time : 1.0931761264801025 seconds.
